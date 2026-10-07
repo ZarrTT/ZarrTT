@@ -11,10 +11,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=ZarrTT&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8qyjxc4u6r2wlwgj8k9oyqe7z&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8qyjxc4u6r2wlwgj8k9oyqe7z&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=1eff00&bar_color_cover=false">
-  </a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8qyjxc4u6r2wlwgj8k9oyqe7z&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=1eff00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=8qyjxc4u6r2wlwgj8k9oyqe7z&redirect=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
